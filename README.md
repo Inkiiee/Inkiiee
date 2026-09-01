@@ -1,172 +1,53 @@
-# 👋 Hi, I'm Inkiiee
+# Hi, I'm Inkiiee 👋
 
-### C++ · Linux · Networking · Robotics
+C++ developer interested in **Linux systems, networking, and robotics**.
 
-I enjoy building software close to the system layer —
-from asynchronous network servers to robotics and SLAM.
+I enjoy building software close to the system layer — from asynchronous network servers to autonomous navigation.
 
-I mainly work with **Modern C++**, focusing on
-**network programming, concurrency, Linux systems, and robotics**.
+## Tech
 
----
+**Languages**
+C++ · C · Python · QML
 
-## 🧑‍💻 About Me
+**Systems & Networking**
+C++20 · Asio · Coroutines · TCP/IP · HTTP · TLS · Linux · Embedded Linux · eBPF · Netlink · libpcap
 
-* 🔧 Developing software primarily with **C / C++**
-* 🌐 Interested in **network programming and asynchronous I/O**
-* 🐧 Building software for **Linux / Embedded Linux**
-* 🤖 Exploring **robotics, localization, and SLAM**
-* ⚙️ Interested in **system architecture, performance, and concurrency**
-* 📚 Currently working with modern **C++20** features and coroutine-based designs
+**Robotics**
+ROS 2 · LiDAR · SLAM · ICP · NDT · Pose Graph Optimization · A* · Pure Pursuit
 
----
+**UI / Build**
+Qt · QML · CMake · Yocto
 
-## 🛠 Tech Stack
+## Featured Projects
 
-### Languages
+### [cpp-2d-navigation-stack](https://github.com/Inkiiee/cpp-2d-navigation-stack)
 
-`C++` `C` `Python` `QML`
+ROS 2 autonomous navigation stack with custom 2D SLAM, A* global planning, and local obstacle avoidance.
 
-### C++ / Systems
+`C++` `ROS2` `SLAM` `A*` `Pure Pursuit` `Qt6`
 
-`C++20` `Coroutines` `STL` `Multithreading` `CMake`
+### [asio-http-file-server](https://github.com/Inkiiee/asio-http-file-server)
 
-### Networking
+C++20 HTTP file server built with standalone Asio, supporting file transfer, Range requests, JSON APIs, and WebDAV.
 
-`Boost.Asio` `Standalone Asio` `TCP/IP` `UDP`
-`HTTP` `TLS` `WebDAV`
+`C++20` `Asio` `HTTP` `WebDAV`
 
-### Linux
+### [asio-file-transfer-server](https://github.com/Inkiiee/asio-file-transfer-server)
 
-`Linux` `Embedded Linux` `Yocto`
-`eBPF` `TC` `Netlink`
+Asynchronous file transfer server using C++20 coroutines, TCP, UDP discovery, and a custom binary protocol.
 
-### Robotics
+`C++20` `Coroutines` `Asio` `TCP` `UDP`
 
-`ROS2` `LiDAR` `SLAM`
-`ICP` `NDT` `Correlative Scan Matching`
-`Pose Graph Optimization`
+### [qt-pcap-network-lab](https://github.com/Inkiiee/qt-pcap-network-lab)
 
-### UI
+Qt/QML networking lab for packet capture and protocol experiments using libpcap.
 
-`Qt` `QML`
+`C` `C++` `Qt` `QML` `libpcap`
 
----
+## Other Projects
 
-## 🚀 Featured Projects
+* [qml-tetris](https://github.com/Inkiiee/qml-tetris) — Tetris clone built with Qt/QML and C++
+* [qml-2048](https://github.com/Inkiiee/qml-2048) — 2048 clone built with Qt/QML
+* [SimpleFTP](https://github.com/Inkiiee/SimpleFTP) — FTP client with a Qt/QML interface
 
-### 🌐 SimpleHttpFileServer
-
-**C++20 HTTP File Server**
-
-A file server built with C++20 and standalone Asio.
-
-* HTTP file upload / download
-* Range Requests
-* JSON file management API
-* WebDAV support
-* ETag / Last-Modified
-* Path traversal protection
-* Embedded Linux / Yocto build support
-
-**Tech:** `C++20` `Asio` `HTTP` `WebDAV` `CMake`
-
----
-
-### 📡 file_trans
-
-**Asynchronous File Transfer Server**
-
-Custom file-transfer server using asynchronous TCP/UDP networking.
-
-* Coroutine-based asynchronous networking
-* TCP file transfer
-* UDP broadcast server discovery
-* Custom binary protocol
-* Heartbeat / session management
-* File and directory operations
-* Yocto cross-compilation support
-
-**Tech:** `C++20` `Coroutines` `Asio` `TCP` `UDP`
-
----
-
-### 🤖 test_icp
-
-**Experimental 2D SLAM System**
-
-A ROS2 / Qt based SLAM project implementing the core localization
-and mapping pipeline.
-
-* LiDAR scan matching
-* ICP / Gauss-Newton ICP
-* NDT
-* Correlative Scan Matching
-* Submap-based mapping
-* Loop closure detection
-* Pose graph optimization
-* Occupancy grid mapping
-* ROS2 sensor integration
-* Qt visualization
-* Multi-threaded processing
-
-**Tech:** `C++` `ROS2` `Qt` `Eigen` `g2o` `SLAM`
-
----
-
-## 🔬 What I'm Interested In
-
-```text
-Modern C++
-    │
-    ├── Asynchronous I/O
-    ├── Coroutines
-    ├── Concurrency
-    └── System Design
-
-Linux
-    │
-    ├── Network Programming
-    ├── eBPF / TC
-    ├── Netlink
-    └── Embedded Linux
-
-Robotics
-    │
-    ├── LiDAR
-    ├── Scan Matching
-    ├── SLAM
-    └── Pose Graph Optimization
-```
-
----
-
-## 💼 Professional Work
-
-Most of my professional projects are hosted in private repositories.
-
-My work includes areas such as:
-
-* Linux network software
-* Modern C++ asynchronous architecture
-* HTTP / TLS communication
-* Proxy and relay systems
-* eBPF / TC based network processing
-* Embedded Linux applications
-* Qt-based industrial software
-
-Private contribution activity is included in my GitHub contribution history without exposing proprietary source code.
-
----
-
-## 📌 Development Philosophy
-
-> Understand the layer below the abstraction.
-
-I like understanding not only how an API is used,
-but also what happens underneath it — networking, threading,
-memory ownership, operating-system behavior, and performance.
-
-I prefer building small implementations myself when learning
-a new system, then improving the architecture as I understand
-the problem more deeply.
+Most of my professional work is hosted in private repositories.
