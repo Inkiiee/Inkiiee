@@ -21,7 +21,7 @@ My work focuses on embedded Linux networking and robotics, with failure recovery
 
 ## Featured Projects | 대표 프로젝트
 
-### [Async Proxy](https://github.com/Inkiiee/asyn-proxy)
+### [Async Proxy](https://github.com/Inkiiee/async-proxy)
 
 A resource-bounded HTTP/HTTPS reverse proxy built with C++20 coroutines, standalone Asio, and OpenSSL.<br>
 C++20 코루틴 기반으로 구현한 **자원 제한형 HTTP/HTTPS 리버스 프록시**입니다.
