@@ -92,6 +92,7 @@ Production source code and product-specific protocol details are private. The fo
 
 ## Other Projects | 기타 프로젝트
 
+- [BlueZ D-Bus Qt](https://github.com/Inkiiee/bluez-dbus-qt) — Qt wrapper for BLE communication through BlueZ 5 and D-Bus on Embedded Linux
 - [Qt Packet Capture Lab](https://github.com/Inkiiee/qt-pcap-network-lab) — Qt/QML and libpcap based networking experiments
 - [QML Tetris](https://github.com/Inkiiee/qml-tetris) — Tetris implemented with Qt/QML and C++
 - [QML 2048](https://github.com/Inkiiee/qml-2048) — 2048 implemented with Qt/QML
