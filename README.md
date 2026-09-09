@@ -10,6 +10,11 @@ I build reliable C++ software at the boundary between devices and networks.<br>
 My work focuses on embedded Linux networking and robotics, with failure recovery, bounded resource usage, concurrency, and observability treated as core design requirements.<br>
 임베디드 Linux 네트워크 서비스와 로봇 소프트웨어를 주로 다루며, 정상 동작뿐 아니라 **장애 복구, 자원 상한, 동시성, 관측 가능성**까지 설계에 포함합니다.
 
+### 📘 [Portfolio | 개발자 포트폴리오](https://app.notion.com/p/Embedded-Linux-C-Network-Robotics-3d65a0547330817384c5e28913f3db8d)
+
+Production engineering, Linux/eBPF, networking, troubleshooting, and robotics case studies.<br>
+실무 프로젝트와 Linux/eBPF, 네트워크 문제 해결, Robotics 경험을 정리한 상세 포트폴리오입니다.
+
 ## What I Work On | 주요 분야
 
 - **Embedded Linux** — Yocto, ARMv8, resource-aware service design<br>
