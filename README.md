@@ -38,6 +38,17 @@ C++20 코루틴 기반으로 구현한 **자원 제한형 HTTP/HTTPS 리버스 �
 
 `C++20` `Coroutines` `Asio` `OpenSSL` `HTTP/1.1`
 
+### [libbpf-control-cpp](https://github.com/Inkiiee/libbpf-control-cpp)
+
+Modern C++20 utilities for libbpf resource lifecycles and dynamic Linux TC attachment management.<br>
+libbpf 자원 수명 주기와 동적 Linux TC attachment를 관리하는 **C++20 eBPF 유틸리티**입니다.
+
+- Explicit map pin ownership and pinned-map layout validation
+- libbpf 0.7 / 1.x compatible strict initialization and FD lifecycle management
+- Desired-state TC attachment reconciliation with bounded retries
+- Immutable interface snapshots, debounced netlink monitoring, and automatic monitor recovery
+
+`C++20` `libbpf` `eBPF` `Linux TC` `Netlink` `Yocto`
 ### [C++ 2D Navigation Stack](https://github.com/Inkiiee/cpp-2d-navigation-stack)
 
 A ROS 2 autonomous navigation stack with custom 2D SLAM, global planning, and local obstacle avoidance.<br>
