@@ -15,6 +15,9 @@ My work focuses on embedded Linux networking and robotics, with failure recovery
 Production engineering, Linux/eBPF, networking, troubleshooting, and robotics case studies.<br>
 실무 프로젝트와 Linux/eBPF, 네트워크 문제 해결, Robotics 경험을 정리한 상세 포트폴리오입니다.
 
+📚 **[eBPF Notes | eBPF 기술 문서](https://snow-diascia-ee7.notion.site/eBPF-3e25a0547330808bb1c6d2c7cbae7f8c)** — Practical notes on libbpf builds, BPF maps, verifier diagnostics, and TC/TCX.<br>
+libbpf 빌드, BPF 맵, verifier 오류 진단, TC/TCX를 정리한 실무 중심 문서입니다.
+
 ## What I Work On | 주요 분야
 
 - **Embedded Linux** — Yocto, ARMv8, resource-aware service design<br>
