@@ -18,8 +18,8 @@ Production engineering, Linux/eBPF, networking, troubleshooting, and robotics ca
 📚 **[eBPF Notes | eBPF 기술 문서](https://snow-diascia-ee7.notion.site/eBPF-3e25a0547330808bb1c6d2c7cbae7f8c)** — Practical notes on libbpf builds, BPF maps, verifier diagnostics, and TC/TCX.<br>
 libbpf 빌드, BPF 맵, verifier 오류 진단, TC/TCX를 정리한 실무 중심 문서입니다.
 
-📝 **[Inkiiee.dev | 기술 블로그](https://content95565.tistory.com/)** — TC eBPF bypasses, verifier logs, `onlink` routing, `ETXTBSY` deploys — each traced from symptom to reproducible fix.<br>
-TC eBPF 우회, verifier 로그, off-subnet 라우팅, 배포 중 `ETXTBSY` 같은 사례를 증상부터 검증까지 정리합니다.
+📝 **[Inkiiee.dev | 기술 블로그](https://content95565.tistory.com/)** — Debugging write-ups that take one symptom apart across OS, network, and protocol layers down to a reproducible fix.<br>
+증상 하나를 OS·네트워크·프로토콜 계층으로 분해해 원인을 찾고, 재현 가능한 수정까지 남긴 기록입니다.
 
 ## What I Work On | 주요 분야
 
