@@ -18,6 +18,8 @@ Production engineering, Linux/eBPF, networking, troubleshooting, and robotics ca
 📚 **[eBPF Notes | eBPF 기술 문서](https://snow-diascia-ee7.notion.site/eBPF-3e25a0547330808bb1c6d2c7cbae7f8c)** — Practical notes on libbpf builds, BPF maps, verifier diagnostics, and TC/TCX.<br>
 libbpf 빌드, BPF 맵, verifier 오류 진단, TC/TCX를 정리한 실무 중심 문서입니다.
 
+**[BLOG](https://content95565.tistory.com/)**
+
 ## What I Work On | 주요 분야
 
 - **Embedded Linux** — Yocto, ARMv8, resource-aware service design<br>
